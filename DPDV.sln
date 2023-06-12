@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPDV", "DPDV.csproj", "{FF55E69D-D22E-4A78-8FE9-27E7A411E034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF55E69D-D22E-4A78-8FE9-27E7A411E034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF55E69D-D22E-4A78-8FE9-27E7A411E034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF55E69D-D22E-4A78-8FE9-27E7A411E034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF55E69D-D22E-4A78-8FE9-27E7A411E034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7812C81A-6F8F-4019-B0AD-39E9F60B9D21}
+	EndGlobalSection
+EndGlobal
